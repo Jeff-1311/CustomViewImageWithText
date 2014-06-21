@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Collos\YandexDisk\DevAcad\MyProjects\CustomView-ImageWithText\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-914fca4219f3bafd892366b87256dc33270bf779.jar"
+        jar="C:\Android\sdk\sdk\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Collos\YandexDisk\DevAcad\MyProjects\CustomView-ImageWithText\app\build\intermediates\pre-dexed\debug\classes-21d063daf6d7ff35316a4b2802a50cf8b8e81670.jar"
+        jar="C:\Users\Collos\YandexDisk\DevAcad\MyProjects\CustomView-ImageWithText\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Collos\YandexDisk\DevAcad\MyProjects\CustomView-ImageWithText\app\build\intermediates\pre-dexed\debug\classes-f7573de462b15da3db87a8f531a28f3312b545a2.jar"
+        jar="C:\Users\Collos\YandexDisk\DevAcad\MyProjects\CustomView-ImageWithText\build\intermediates\exploded-aar\CustomView-ImageWithText\lib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="82683598e1a09f83d524dee04b82d4db698e6650"/>
+
+</pre-dex-items>

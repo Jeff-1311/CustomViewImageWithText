@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SimpleWidget">
+
+        <attr name="simpleImage" format="integer"/>
+        <attr name="simpleBack" format="integer"/>
+        <attr name="simpleString" format="string"/>
+
+    </declare-styleable>
+
+</resources>

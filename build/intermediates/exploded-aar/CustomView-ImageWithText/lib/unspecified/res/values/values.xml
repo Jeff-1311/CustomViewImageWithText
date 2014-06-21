@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Collos/YandexDisk/DevAcad/MyProjects/CustomView-ImageWithText/lib/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="yellow">#fffffb00</color>
+    <!-- From: file:/C:/Users/Collos/YandexDisk/DevAcad/MyProjects/CustomView-ImageWithText/lib/src/main/res/values/attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="SimpleWidget">
+        <attr name="simpleImage" format="integer" />
+        <attr name="simpleBack" format="integer" />
+        <attr name="simpleString" format="string" />
+    </declare-styleable>
+    <!-- From: file:/C:/Users/Collos/YandexDisk/DevAcad/MyProjects/CustomView-ImageWithText/lib/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">CustomView - ImageWithText</string>
+
+</resources>
